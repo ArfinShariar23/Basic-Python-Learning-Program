@@ -1,5 +1,5 @@
 # Basic-Python-Learning-Program
-In this Repository I had added Some basic Python Code for Begainner Learner. This Basic Python Codes help me to understand Python Programming Language very Sweetly. Thank You
+In this Repository I had added Some basic Python Code for Begainner Learner. This Basic Python Codes help you to understand Python Programming Language very Sweetly. Thank You
 In Basic Learning Step you need know About Some small things of Python Programming.
 Here I write about them:
 
