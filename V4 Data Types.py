@@ -44,6 +44,14 @@ print()
 """
 Output:
 _________
+Checking Intiger
+x is a:  <class 'int'>
+
+Checking Float
+y is a:  <class 'float'>
+
+Checking String
+This name is a:  <class 'str'>
 
 Checking List
 The Super Shop is a:  <class 'list'>
