@@ -1,0 +1,10 @@
+This program will generate the country name of input phone number base on its GeoCode.
+
+Example:
+if your Phone number is "+88019123456789" // Random Number
+then it will show the location name = "Bangladesh"
+
+[Note:Before entering any number you need entered its country dial code]
+
+Thank you.
+ ~Shariar
