@@ -22,4 +22,5 @@ print()
 initial2 = time.time()
 for i in range(45):
 	print(i,"This is For Loop")
+	time.sleep(2) # it will sleep the print function everytime after printing
 print("For Loop Running time: ",time.time()-initial2)
